@@ -1,0 +1,5 @@
+  =>  Template Name    : Naveen Portfolio
+
+  =>  Template Link    : https://htmlcodex.com/freelancer-portfolio-template
+
+  =>  Template Author  : Naveen
